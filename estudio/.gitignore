@@ -1,0 +1,7 @@
+node_modules/
+.next/
+datos/trabajos-de-ejemplo/
+/trabajos/
+capturas/
+# Los fondos de prueba del video de ejemplo: se arman solos la primera vez (herramientas/armar_video_ejemplo.py).
+datos/fondos-de-ejemplo/

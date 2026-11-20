@@ -1,0 +1,13 @@
+{
+ "por_segundo": {
+  "clips": 3.718,
+  "voz": 1.059,
+  "tiempos": 0.008,
+  "armado": 1.265,
+  "armado_rapida": 0.3,
+  "textos": 0.698
+ },
+ "palabras_por_segundo": 2.834,
+ "muestras": 16,
+ "nota": "lo escribe armar.py solo; sirve para estimar cuánto falta"
+}

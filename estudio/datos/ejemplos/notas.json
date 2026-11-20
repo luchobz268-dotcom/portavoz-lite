@@ -1,0 +1,42 @@
+{
+  "_aviso": "Noticias INVENTADAS para probar las pantallas del Estudio. Ningún medio ni hecho es real. Los links usan el dominio .invalid, que no existe en internet a propósito.",
+  "notas": [
+    {
+      "id": "ejemplo-biblioteca",
+      "origen": "link",
+      "link": "https://ejemplo.invalid/biblioteca-abre-de-noche",
+      "medio": "El Diario de Ejemplo",
+      "fecha": "2026-11-14",
+      "titular": "La biblioteca municipal abre de noche durante todo el verano",
+      "tema": "general",
+      "texto": "La biblioteca municipal va a abrir de noche durante todo el verano. Desde el primer lunes de diciembre y hasta fines de febrero, la sala principal va a recibir lectores de 19 a 23, de lunes a sábado.\n\nLa directora explicó que la idea surgió de una encuesta entre vecinos: muchos trabajan de día y no llegaban nunca al horario de la tarde. Además, la sala tiene aire acondicionado y se convirtió en un refugio para los días de más calor.\n\nHabrá lectura en voz alta para chicos los miércoles, un taller de escritura los jueves y préstamos sin turno previo. La entrada es libre y no hace falta ser socio. Para llevarse un libro alcanza con presentar el documento.\n\nEl programa se va a evaluar en marzo. Si la respuesta es buena, la biblioteca analiza mantener un horario nocturno también en invierno, al menos dos días por semana."
+    },
+    {
+      "id": "ejemplo-club",
+      "origen": "link",
+      "link": "https://ejemplo.invalid/club-estrena-cancha-techada",
+      "medio": "Radio Ejemplo",
+      "fecha": "2026-11-12",
+      "titular": "El club del barrio estrena cancha techada y abre una escuela de básquet gratuita",
+      "tema": "general",
+      "texto": "Después de tres años de rifas, peñas y trabajo voluntario, el club del barrio inauguró su cancha techada. El tinglado cubre la cancha de básquet y permite usarla aunque llueva o haga mucho calor.\n\nCon la nueva cancha, el club abre una escuela de básquet gratuita para chicos y chicas de 8 a 14 años. Las clases van a ser martes y viernes a la tarde, con dos profesores y un grupo de padres que ayuda con la organización.\n\nEl presidente del club contó que las inscripciones se llenaron en dos días y que ya hay lista de espera. Por eso buscan sumar un tercer día y más profesores. Los vecinos que quieran colaborar pueden acercarse a la secretaría.\n\nLa cancha también se va a prestar a las escuelas de la zona para las clases de educación física, y los sábados va a haber torneos abiertos para adultos."
+    },
+    {
+      "id": "ejemplo-choque",
+      "origen": "link",
+      "link": "https://ejemplo.invalid/choque-corta-la-ruta",
+      "medio": "Noticias de Ejemplo",
+      "fecha": "2026-11-15",
+      "titular": "Un choque entre dos camiones corta la ruta provincial durante seis horas",
+      "tema": "tragedia",
+      "texto": "Un choque entre dos camiones mantuvo cortada la ruta provincial durante seis horas este sábado a la madrugada. Los dos conductores fueron trasladados al hospital con heridas y, según el último parte, están estables.\n\nEl accidente ocurrió en una curva cerca del acceso al pueblo, en un tramo sin banquina y con poca iluminación. Uno de los camiones llevaba cereal y parte de la carga quedó sobre el asfalto, lo que demoró la limpieza.\n\nDurante el corte, el tránsito se desvió por caminos rurales. Los vecinos de la zona volvieron a reclamar obras en ese tramo: dicen que es el tercer accidente grave en el año y piden luces y una banquina.\n\nLa ruta quedó habilitada cerca del mediodía. Las autoridades pidieron circular con precaución porque todavía hay restos de la carga en la banquina y personal trabajando en el lugar."
+    }
+  ],
+  "fallas": [
+    { "link": "https://ejemplo.invalid/muro-de-pago", "clave": "muro-de-pago", "codigo": "MURO_DE_PAGO", "en": "nota" },
+    { "link": "https://ejemplo.invalid/no-abre", "clave": "no-abre", "codigo": "LINK_NO_ABRE", "en": "nota" },
+    { "link": "https://ejemplo.invalid/sin-texto", "clave": "sin-texto", "codigo": "NOTA_SIN_TEXTO", "en": "nota" },
+    { "link": "https://ejemplo.invalid/sin-clips", "clave": "sin-clips", "codigo": "SIN_CLIPS", "en": "armado" },
+    { "link": "https://ejemplo.invalid/falla-armado", "clave": "falla-armado", "codigo": "FALLO_ARMADO", "en": "armado" }
+  ]
+}

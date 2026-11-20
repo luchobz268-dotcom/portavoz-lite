@@ -1,0 +1,36 @@
+{
+  "name": "portavoz-lite-estudio",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.9"
+  },
+  "scripts": {
+    "dev": "next dev -H 127.0.0.1 -p 3100",
+    "build": "next build",
+    "start": "next start -H 127.0.0.1 -p 3100",
+    "celular": "node scripts/celular.mjs",
+    "real": "node scripts/real.mjs",
+    "real-celular": "node scripts/celular.mjs --motor",
+    "abrir": "node scripts/arrancar.mjs",
+    "motor": "python -B ../motor/probar_sin_gastar.py",
+    "sin-llaves": "python -B ../motor/sin_llaves.py",
+    "conexion": "node scripts/conexion.mjs",
+    "revisar": "node scripts/revisar.mjs && node scripts/marca-igual.mjs",
+    "contrato": "node scripts/contrato.mjs",
+    "rutas": "node scripts/rutas.mjs",
+    "punta-a-punta": "node scripts/punta-a-punta.mjs",
+    "arranque": "node scripts/arranque.mjs",
+    "ajustes": "node scripts/ajustes.mjs",
+    "verificar": "next build && npm run revisar && npm run motor && npm run sin-llaves && npm run contrato && npm run rutas && npm run arranque && npm run ajustes && npm run conexion && npm run punta-a-punta"
+  },
+  "dependencies": {
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "playwright-core": "1.62.1"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "_aviso": "Textos para publicar de EJEMPLO (título, descripción, hashtags, etiquetas de YouTube y uno por red) para las noticias inventadas de notas.json. Cada campo tiene varias versiones: \"Pedir otro\" pasa a la siguiente. Para un texto pegado se usan las plantillas, con {titular}, {fuente} y {hashtags}. La nota de tragedia y las plantillas de temas delicados van sin emojis. \"video\" son las palabras que se imprimen en el video de ejemplo.",
+  "video": {
+    "cartel": "IMAGEN DE EJEMPLO",
+    "fuente": "Fuente: {medio}",
+    "ilustrativas": "Imágenes ilustrativas"
+  },
+  "notas": {
+    "ejemplo-biblioteca": {
+      "titulo": [
+        "La biblioteca municipal abre de noche todo el verano",
+        "¿Trabajas de día? La biblioteca ahora te espera de noche",
+        "Biblioteca de noche: lectura, talleres y aire fresco todo el verano"
+      ],
+      "descripcion": [
+        "La biblioteca municipal va a abrir de noche durante todo el verano, de lunes a sábado. Hay lectura en voz alta para chicos, taller de escritura y préstamos sin turno. La entrada es libre.\n\nFuente: El Diario de Ejemplo",
+        "Una encuesta entre vecinos mostró que muchos no llegaban nunca al horario de la tarde. Por eso la biblioteca abre de noche todo el verano, con entrada libre y sin hacerse socio.\n\nFuente: El Diario de Ejemplo",
+        "Lectura, talleres y un lugar fresco para los días de calor: la biblioteca municipal abre de noche hasta fin de febrero. Si la respuesta es buena, podría seguir en invierno.\n\nFuente: El Diario de Ejemplo"
+      ],
+      "hashtags": [
+        ["#biblioteca", "#lectura", "#verano", "#cultura"],
+        ["#bibliotecadenoche", "#libros", "#vecinos", "#noticiaslocales"],
+        ["#leer", "#planesdeverano", "#biblioteca", "#comunidad"]
+      ],
+      "etiquetasYoutube": [
+        ["biblioteca municipal", "biblioteca de noche", "lectura", "verano", "noticias locales"],
+        ["biblioteca", "horario nocturno", "libros", "taller de escritura", "vecinos"],
+        ["planes de verano", "biblioteca gratis", "lectura para chicos", "cultura", "noticias del barrio"]
+      ],
+      "redes": {
+        "tiktok": [
+          "La biblioteca abre de noche todo el verano 📚🌙 Entrada libre y sin ser socio. #biblioteca #lectura #verano",
+          "¿Sales tarde del trabajo? Ahora la biblioteca te espera de noche 🌙 #bibliotecadenoche #libros",
+          "Lectura, talleres y aire fresco, gratis y de noche 📖 Guárdalo para el verano. #planesdeverano #leer"
+        ],
+        "instagram": [
+          "📚 La biblioteca municipal abre de noche durante todo el verano.\n\nLectura en voz alta para chicos, taller de escritura y préstamos sin turno. La entrada es libre y no hace falta ser socio.\n\n#biblioteca #lectura #verano #cultura",
+          "🌙 Para los que trabajan de día: la biblioteca ahora abre de noche.\n\nLa idea salió de una encuesta entre vecinos. ¿Te sumarías?\n\n#bibliotecadenoche #libros #vecinos #noticiaslocales",
+          "Un refugio fresco para las noches de calor 📖\n\nLa biblioteca municipal abre de noche hasta fin de febrero, con talleres y lectura para chicos.\n\n#leer #planesdeverano #biblioteca #comunidad"
+        ],
+        "youtube": [
+          "La biblioteca municipal abre de noche durante todo el verano, con entrada libre. Te contamos qué actividades hay y cómo llevarte un libro.\n\nFuente: El Diario de Ejemplo\n\n#biblioteca #lectura #verano",
+          "Muchos vecinos trabajan de día y no llegaban al horario de la tarde. La biblioteca escuchó y ahora abre de noche todo el verano.\n\nFuente: El Diario de Ejemplo\n\n#bibliotecadenoche #libros",
+          "Lectura en voz alta, taller de escritura y préstamos sin turno, de noche y gratis. Así funciona la biblioteca municipal este verano.\n\nFuente: El Diario de Ejemplo\n\n#planesdeverano #leer"
+        ],
+        "facebook": [
+          "Buena noticia para los que trabajan de día: la biblioteca municipal abre de noche todo el verano. Hay lectura para chicos, taller de escritura y préstamos sin turno. ¿La vas a aprovechar?",
+          "La biblioteca municipal abre de noche desde diciembre hasta fin de febrero. La entrada es libre y para llevarte un libro alcanza con el documento. Compártelo con quien le sirva.",
+          "¿Sabías que este verano la biblioteca abre de noche? Además del aire fresco, hay lectura en voz alta para chicos y un taller de escritura. Si funciona, podría seguir en invierno."
+        ],
+        "x": [
+          "La biblioteca municipal abre de noche todo el verano, con entrada libre y préstamos sin turno 📚 #biblioteca #lectura",
+          "¿Trabajas de día? La biblioteca ahora abre de noche hasta fin de febrero 🌙 #bibliotecadenoche",
+          "Lectura para chicos, taller de escritura y aire fresco: la biblioteca abre de noche este verano. #planesdeverano"
+        ],
+        "linkedin": [
+          "Una biblioteca que escuchó a sus vecinos: después de una encuesta, abre de noche durante todo el verano para quienes trabajan de día. Un buen ejemplo de servicio público pensado desde la necesidad real. #cultura #comunidad",
+          "Adaptar el horario a la gente y no al revés. La biblioteca municipal abre de noche este verano y evaluará en marzo si mantiene el horario en invierno. #gestionpublica #cultura",
+          "Lectura, talleres y un espacio fresco abierto de noche, con entrada libre. Así responde la biblioteca municipal a lo que pidieron los vecinos. #comunidad #biblioteca"
+        ]
+      }
+    },
+    "ejemplo-club": {
+      "titulo": [
+        "El club del barrio estrena cancha techada y escuela de básquet gratis",
+        "Años de rifas y peñas: el club ya tiene su cancha techada",
+        "Básquet gratis para chicos y chicas en la nueva cancha del club"
+      ],
+      "descripcion": [
+        "Después de años de rifas, peñas y trabajo voluntario, el club del barrio inauguró su cancha techada y abre una escuela de básquet gratuita para chicos y chicas.\n\nFuente: Radio Ejemplo",
+        "Las inscripciones de la escuela de básquet se llenaron enseguida y ya hay lista de espera. El club busca más profesores para sumar otro día de clases.\n\nFuente: Radio Ejemplo",
+        "La nueva cancha techada se va a usar con lluvia o calor, la van a compartir las escuelas de la zona y los sábados habrá torneos abiertos para adultos.\n\nFuente: Radio Ejemplo"
+      ],
+      "hashtags": [
+        ["#basquet", "#clubdebarrio", "#deporte", "#comunidad"],
+        ["#basquetbol", "#chicosydeporte", "#barrio", "#noticiaslocales"],
+        ["#clubdebarrio", "#deporteparatodos", "#basquet", "#vecinos"]
+      ],
+      "etiquetasYoutube": [
+        ["club de barrio", "cancha techada", "escuela de básquet", "deporte", "noticias locales"],
+        ["básquet gratis", "chicos y deporte", "club", "inscripciones", "barrio"],
+        ["deporte para todos", "torneos abiertos", "básquet", "comunidad", "vecinos"]
+      ],
+      "redes": {
+        "tiktok": [
+          "El club del barrio estrena cancha techada 🏀 y abre una escuela de básquet gratis. #basquet #clubdebarrio",
+          "Rifas, peñas y trabajo voluntario. El resultado: cancha techada para todo el barrio 🙌 #clubdebarrio #deporte",
+          "Básquet gratis para chicos y chicas, con lluvia o con sol 🏀 #deporteparatodos #basquet"
+        ],
+        "instagram": [
+          "🏀 El club del barrio inauguró su cancha techada.\n\nY con ella llega una escuela de básquet gratuita para chicos y chicas. Las clases son martes y viernes a la tarde.\n\n#basquet #clubdebarrio #deporte #comunidad",
+          "🙌 Años de rifas, peñas y trabajo voluntario dieron su fruto.\n\nLa cancha techada ya está, las inscripciones se llenaron y hay lista de espera. ¿Quieres colaborar? Acércate a la secretaría.\n\n#basquetbol #chicosydeporte #barrio",
+          "Una cancha para todos 🏀\n\nLa van a usar la escuela de básquet, las escuelas de la zona y los adultos en los torneos de los sábados.\n\n#clubdebarrio #deporteparatodos #vecinos"
+        ],
+        "youtube": [
+          "El club del barrio inauguró su cancha techada y abre una escuela de básquet gratuita. Te contamos cómo se logró y quiénes pueden sumarse.\n\nFuente: Radio Ejemplo\n\n#basquet #clubdebarrio",
+          "Las inscripciones se llenaron enseguida y ya hay lista de espera. El club busca profesores para sumar otro día de clases.\n\nFuente: Radio Ejemplo\n\n#basquetbol #barrio",
+          "Escuela de básquet, clases de educación física y torneos para adultos: todo lo que va a pasar en la nueva cancha techada del club.\n\nFuente: Radio Ejemplo\n\n#deporteparatodos"
+        ],
+        "facebook": [
+          "¡Lo logramos como barrio! El club inauguró su cancha techada y abre una escuela de básquet gratuita para chicos y chicas. Las clases son martes y viernes a la tarde.",
+          "La escuela de básquet del club ya tiene lista de espera. Si sabes de básquet y quieres dar una mano, el club busca profesores. Acércate a la secretaría.",
+          "La nueva cancha techada no es solo del club: la van a usar las escuelas de la zona y los sábados habrá torneos abiertos para adultos. ¿Te anotas?"
+        ],
+        "x": [
+          "El club del barrio estrena cancha techada y abre una escuela de básquet gratuita 🏀 #clubdebarrio",
+          "Después de años de rifas y peñas, el club tiene su cancha techada. Las inscripciones ya se llenaron. #basquet",
+          "Básquet gratis para chicos y chicas, y torneos abiertos para adultos los sábados. #deporteparatodos"
+        ],
+        "linkedin": [
+          "Lo que logra una comunidad organizada: años de rifas, peñas y trabajo voluntario terminaron en una cancha techada y una escuela de básquet gratuita. #comunidad #deporte",
+          "Un club de barrio que crece: inscripciones completas, lista de espera y la búsqueda de más profesores. El deporte como espacio de encuentro. #deporte #voluntariado",
+          "Una cancha compartida con las escuelas de la zona y abierta a los adultos los sábados. Un buen ejemplo de infraestructura que suma a todo el barrio. #comunidad"
+        ]
+      }
+    },
+    "ejemplo-choque": {
+      "titulo": [
+        "Un choque entre dos camiones cortó la ruta provincial durante horas",
+        "Ruta provincial: el tránsito ya está habilitado tras el choque de dos camiones",
+        "Choque en la ruta provincial: qué pasó y qué piden los vecinos"
+      ],
+      "descripcion": [
+        "Un choque entre dos camiones mantuvo cortada la ruta provincial durante la madrugada del sábado. Los dos conductores fueron trasladados al hospital y están estables.\n\nFuente: Noticias de Ejemplo",
+        "La ruta quedó habilitada cerca del mediodía. Las autoridades piden circular con precaución porque todavía hay restos de la carga y personal trabajando en el lugar.\n\nFuente: Noticias de Ejemplo",
+        "El accidente ocurrió en un tramo sin banquina y con poca iluminación. Los vecinos de la zona vuelven a reclamar obras en ese sector de la ruta.\n\nFuente: Noticias de Ejemplo"
+      ],
+      "hashtags": [
+        ["#ruta", "#transito", "#noticias"],
+        ["#seguridadvial", "#transito", "#informacion"],
+        ["#rutaprovincial", "#seguridadvial", "#actualidad"]
+      ],
+      "etiquetasYoutube": [
+        ["ruta provincial", "choque de camiones", "tránsito", "noticias"],
+        ["ruta habilitada", "seguridad vial", "tránsito", "información"],
+        ["reclamo de vecinos", "obras en la ruta", "seguridad vial", "actualidad"]
+      ],
+      "redes": {
+        "tiktok": [
+          "Un choque entre dos camiones cortó la ruta provincial durante horas. Los conductores están estables. #ruta #transito",
+          "La ruta provincial ya está habilitada. Se pide circular con precaución. #seguridadvial #transito",
+          "Los vecinos piden luces y banquina en el tramo donde ocurrió el choque. #rutaprovincial #seguridadvial"
+        ],
+        "instagram": [
+          "Un choque entre dos camiones mantuvo cortada la ruta provincial durante la madrugada del sábado.\n\nLos dos conductores fueron trasladados al hospital y, según el último parte, están estables.\n\n#ruta #transito #noticias",
+          "La ruta provincial quedó habilitada cerca del mediodía.\n\nLas autoridades piden circular con precaución: todavía hay restos de la carga y personal trabajando en el lugar.\n\n#seguridadvial #transito #informacion",
+          "El tramo donde ocurrió el choque no tiene banquina y tiene poca iluminación.\n\nLos vecinos de la zona vuelven a pedir obras.\n\n#rutaprovincial #seguridadvial #actualidad"
+        ],
+        "youtube": [
+          "Un choque entre dos camiones cortó la ruta provincial durante horas. Los conductores fueron trasladados al hospital y están estables.\n\nFuente: Noticias de Ejemplo\n\n#ruta #transito",
+          "La ruta provincial ya está habilitada. Te contamos qué precauciones piden las autoridades.\n\nFuente: Noticias de Ejemplo\n\n#seguridadvial",
+          "Qué pasó en la ruta provincial y por qué los vecinos vuelven a reclamar obras en ese tramo.\n\nFuente: Noticias de Ejemplo\n\n#rutaprovincial"
+        ],
+        "facebook": [
+          "Un choque entre dos camiones mantuvo cortada la ruta provincial durante la madrugada del sábado. Los dos conductores están estables. La ruta ya está habilitada.",
+          "Si vas a circular por la ruta provincial, hazlo con precaución: todavía hay restos de la carga y personal trabajando en el lugar del choque.",
+          "Después del choque de este sábado, los vecinos vuelven a pedir luces y una banquina en el tramo cercano al acceso al pueblo."
+        ],
+        "x": [
+          "Un choque entre dos camiones cortó la ruta provincial durante horas. Los conductores están estables y la ruta ya está habilitada. #transito",
+          "Ruta provincial habilitada tras el choque de dos camiones. Se pide circular con precaución. #seguridadvial",
+          "Los vecinos reclaman luces y banquina en el tramo de la ruta provincial donde chocaron dos camiones. #seguridadvial"
+        ],
+        "linkedin": [
+          "Un choque entre dos camiones cortó la ruta provincial durante horas. Los conductores están estables. Un recordatorio de la importancia de la infraestructura vial. #seguridadvial",
+          "La ruta provincial ya está habilitada tras el choque de dos camiones. Las autoridades piden circular con precaución en la zona. #transito",
+          "Tramos sin banquina y con poca iluminación: los vecinos vuelven a reclamar obras después de un nuevo choque en la ruta provincial. #seguridadvial #infraestructura"
+        ]
+      }
+    }
+  },
+  "plantillas": {
+    "general": {
+      "titulo": [
+        "{titular}",
+        "En pocas palabras: {titular}",
+        "{titular} | lo que tienes que saber"
+      ],
+      "descripcion": [
+        "{titular}. Te lo contamos en un video corto.\n\n{fuente}",
+        "Lo más importante de esta noticia, rápido y claro: {titular}.\n\n{fuente}",
+        "{titular}. Mira el resumen y cuéntanos qué piensas en los comentarios.\n\n{fuente}"
+      ],
+      "hashtags": [
+        ["#noticias"],
+        ["#actualidad"],
+        ["#enpocaspalabras"]
+      ],
+      "etiquetasYoutube": [
+        ["noticias", "actualidad"],
+        ["resumen de noticias", "información"],
+        ["noticia del día", "en pocas palabras"]
+      ],
+      "redes": {
+        "tiktok": [
+          "{titular} 📰 Te lo contamos rápido. {hashtags}",
+          "¿Ya te enteraste? {titular} 👀 {hashtags}",
+          "{titular}. Guárdalo y compártelo con quien le sirva 📌 {hashtags}"
+        ],
+        "instagram": [
+          "📰 {titular}.\n\nTe lo contamos en pocas palabras.\n\n{hashtags}",
+          "👀 ¿Ya te enteraste?\n\n{titular}.\n\n{hashtags}",
+          "{titular} 📌\n\nGuárdalo para no perderlo y cuéntanos qué piensas.\n\n{hashtags}"
+        ],
+        "youtube": [
+          "{titular}. Te lo contamos en un video corto.\n\n{fuente}\n\n{hashtags}",
+          "Lo más importante de esta noticia: {titular}.\n\n{fuente}\n\n{hashtags}",
+          "{titular}. Mira el resumen y déjanos tu opinión en los comentarios.\n\n{fuente}\n\n{hashtags}"
+        ],
+        "facebook": [
+          "{titular}. Te lo contamos en pocas palabras. ¿Qué opinas?",
+          "¿Ya te enteraste? {titular}. Compártelo con quien le pueda servir.",
+          "{titular}. Mira el resumen en el video."
+        ],
+        "x": [
+          "{titular} 📰 {hashtags}",
+          "¿Ya te enteraste? {titular} {hashtags}",
+          "{titular}. Te lo contamos rápido. {hashtags}"
+        ],
+        "linkedin": [
+          "{titular}. Un resumen breve de lo más importante. {hashtags}",
+          "Lo que vale saber hoy: {titular}. {hashtags}",
+          "{titular}. ¿Cómo lo ves desde tu lugar? {hashtags}"
+        ]
+      }
+    },
+    "sensible": {
+      "titulo": [
+        "{titular}",
+        "Lo que se sabe: {titular}",
+        "{titular} | resumen"
+      ],
+      "descripcion": [
+        "{titular}. Un resumen de lo que se sabe hasta ahora.\n\n{fuente}",
+        "Lo que informaron hasta el momento: {titular}.\n\n{fuente}",
+        "{titular}. La información puede actualizarse.\n\n{fuente}"
+      ],
+      "hashtags": [
+        ["#noticias"],
+        ["#informacion"],
+        ["#actualidad"]
+      ],
+      "etiquetasYoutube": [
+        ["noticias", "información"],
+        ["actualidad", "resumen"],
+        ["lo que se sabe", "noticias"]
+      ],
+      "redes": {
+        "tiktok": [
+          "{titular}. Lo que se sabe hasta ahora. {hashtags}",
+          "Lo que informaron hasta el momento: {titular}. {hashtags}",
+          "{titular}. La información puede actualizarse. {hashtags}"
+        ],
+        "instagram": [
+          "{titular}.\n\nUn resumen de lo que se sabe hasta ahora.\n\n{hashtags}",
+          "Lo que informaron hasta el momento:\n\n{titular}.\n\n{hashtags}",
+          "{titular}.\n\nLa información puede actualizarse.\n\n{hashtags}"
+        ],
+        "youtube": [
+          "{titular}. Un resumen de lo que se sabe hasta ahora.\n\n{fuente}\n\n{hashtags}",
+          "Lo que informaron hasta el momento: {titular}.\n\n{fuente}\n\n{hashtags}",
+          "{titular}. La información puede actualizarse.\n\n{fuente}\n\n{hashtags}"
+        ],
+        "facebook": [
+          "{titular}. Un resumen de lo que se sabe hasta ahora.",
+          "Lo que informaron hasta el momento: {titular}.",
+          "{titular}. La información puede actualizarse."
+        ],
+        "x": [
+          "{titular}. {hashtags}",
+          "Lo que se sabe: {titular} {hashtags}",
+          "{titular}. La información puede actualizarse. {hashtags}"
+        ],
+        "linkedin": [
+          "{titular}. Un resumen de lo que se sabe hasta ahora. {hashtags}",
+          "Lo que informaron hasta el momento: {titular}. {hashtags}",
+          "{titular}. La información puede actualizarse. {hashtags}"
+        ]
+      }
+    }
+  }
+}

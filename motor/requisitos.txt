@@ -1,0 +1,4 @@
+# Lo que el motor necesita además de Python: numpy (vuelta.py, el sonido) y fontTools (medir.py, el ancho de las letras
+# de los subtítulos). Lo instala la skill portavoz-instalar.
+numpy>=2.5,<3
+fonttools>=4.68,<5

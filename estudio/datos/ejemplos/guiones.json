@@ -1,0 +1,376 @@
+{
+  "_aviso": "Guiones INVENTADOS para probar las pantallas del Estudio, uno por cada nota de ejemplo (notas.json) y cada enfoque. Es lo que diría la voz del video: tuteo neutro, sin rayas largas, sin jerga. Lo más importante va primero, porque las primeras oraciones tienen que alcanzar solas para un video corto. Cada lista está pensada para unos 60 segundos; para 15 y 30 se toman las primeras. En 'debate' la última oración es siempre la pregunta a quien mira y no se saca nunca.",
+  "guiones": {
+    "ejemplo-biblioteca": {
+      "dato": {
+        "oraciones": [
+          "La biblioteca municipal va a abrir de noche durante todo el verano.",
+          "Desde el primer lunes de diciembre, la sala principal recibe lectores de siete a once de la noche.",
+          "Abre de lunes a sábado, hasta fines de febrero.",
+          "La entrada es libre y no hace falta ser socio.",
+          "Para llevarte un libro alcanza con mostrar tu documento.",
+          "La idea salió de una encuesta entre vecinos: muchos trabajan de día y nunca llegaban a tiempo.",
+          "Además, la sala tiene aire acondicionado y sirve de refugio en los días de más calor.",
+          "Los miércoles hay lectura en voz alta para chicos y los jueves, un taller de escritura.",
+          "Los préstamos se hacen sin turno previo.",
+          "En marzo van a evaluar cómo funcionó.",
+          "Si la respuesta es buena, la biblioteca podría abrir de noche también en invierno, al menos dos días por semana."
+        ],
+        "simple": [
+          "La biblioteca municipal abre de noche todo el verano.",
+          "Empieza el primer lunes de diciembre.",
+          "Abre de siete a once de la noche, de lunes a sábado.",
+          "Puedes ir hasta fines de febrero.",
+          "Entrar es gratis.",
+          "No tienes que ser socio.",
+          "Para llevarte un libro, solo muestra tu documento.",
+          "La idea salió de los vecinos.",
+          "Muchos trabajan de día y no llegaban a tiempo.",
+          "La sala tiene aire acondicionado.",
+          "Es un buen lugar para escapar del calor.",
+          "Los miércoles leen cuentos en voz alta para chicos.",
+          "Los jueves hay un taller para aprender a escribir.",
+          "Para pedir un libro no hace falta turno.",
+          "En marzo van a ver cómo les fue.",
+          "Si funciona bien, quizás abra de noche también en invierno.",
+          "Serían al menos dos noches por semana."
+        ],
+        "otra": [
+          "Este verano, la biblioteca municipal no cierra cuando se pone el sol.",
+          "Hasta fines de febrero, la sala principal abre de noche, de siete a once, de lunes a sábado.",
+          "Arranca el primer lunes de diciembre.",
+          "No hace falta ser socio: la entrada es libre y alcanza con el documento para llevarte un libro.",
+          "Tampoco hay que sacar turno para los préstamos.",
+          "Hay actividades fijas: lectura en voz alta para chicos los miércoles y taller de escritura los jueves.",
+          "El cambio nació de una encuesta: muchos vecinos trabajan de día y nunca llegaban al horario de la tarde.",
+          "Y como la sala tiene aire acondicionado, también funciona como refugio en los días de más calor.",
+          "La prueba se evalúa en marzo.",
+          "Si sale bien, la biblioteca analiza abrir de noche también en invierno, por lo menos dos días por semana."
+        ]
+      },
+      "te-cambia": {
+        "oraciones": [
+          "Si trabajas de día y nunca llegas a la biblioteca, este verano tienes una oportunidad.",
+          "La biblioteca municipal abre de noche, de siete a once, de lunes a sábado.",
+          "Y no te cuesta nada.",
+          "No necesitas ser socio y para llevarte un libro solo tienes que mostrar tu documento.",
+          "Tampoco tienes que pedir turno.",
+          "Si tienes chicos, los miércoles hay lectura en voz alta para ellos.",
+          "Si te gusta escribir, los jueves hay un taller.",
+          "Y en los días de más calor, la sala tiene aire acondicionado: es un buen refugio para leer o estudiar.",
+          "El horario corre desde el primer lunes de diciembre hasta fines de febrero.",
+          "La idea salió de los mismos vecinos, en una encuesta.",
+          "Si la usas, cuenta: en marzo van a evaluar cómo funcionó.",
+          "Y si la respuesta es buena, podría abrir de noche también en invierno.",
+          "Así que, si te queda cerca, mira el horario y pásate una noche."
+        ],
+        "simple": [
+          "Si trabajas de día, ahora puedes ir a la biblioteca de noche.",
+          "Abre de siete a once, de lunes a sábado.",
+          "Es todo el verano.",
+          "Y es gratis.",
+          "No tienes que ser socio.",
+          "Para llevarte un libro, muestra tu documento.",
+          "No hace falta turno.",
+          "Si tienes chicos, los miércoles les leen cuentos.",
+          "Si te gusta escribir, los jueves hay un taller.",
+          "La sala tiene aire acondicionado.",
+          "Es un buen lugar para el calor.",
+          "Puedes leer o estudiar tranquilo.",
+          "Empieza el primer lunes de diciembre.",
+          "Termina a fines de febrero.",
+          "La idea salió de los vecinos.",
+          "En marzo van a ver si funcionó.",
+          "Si va bien, quizás siga en invierno.",
+          "Si te queda cerca, ve una noche."
+        ],
+        "otra": [
+          "Ese libro que nunca tienes tiempo de ir a buscar ahora te espera de noche.",
+          "Durante todo el verano, la biblioteca municipal abre de siete a once, de lunes a sábado.",
+          "Entras gratis y sin ser socio.",
+          "Si quieres llevarte un libro a casa, alcanza con tu documento, sin turno previo.",
+          "Los miércoles hay lectura en voz alta para chicos, así que puedes ir en familia.",
+          "Y los jueves, un taller de escritura para quien quiera animarse.",
+          "Con el calor, también es un buen plan: la sala tiene aire acondicionado.",
+          "Esto arranca el primer lunes de diciembre y sigue hasta fines de febrero.",
+          "Salió de una encuesta: muchos vecinos trabajan de día y no llegaban al horario de la tarde.",
+          "En marzo se decide si sigue.",
+          "Si funciona, podría haber noches de biblioteca también en invierno, al menos dos por semana.",
+          "Si te queda cerca, ya sabes dónde pasar una noche de verano."
+        ]
+      },
+      "debate": {
+        "oraciones": [
+          "La biblioteca municipal va a abrir de noche durante todo el verano, de siete a once.",
+          "La idea salió de una encuesta: muchos vecinos trabajan de día y no llegaban nunca.",
+          "Habrá lectura para chicos, taller de escritura y préstamos sin turno.",
+          "La entrada es libre y no hace falta ser socio.",
+          "Además, la sala tiene aire acondicionado y sirve de refugio en los días de calor.",
+          "En marzo van a evaluar si funcionó.",
+          "Si la respuesta es buena, podría abrir de noche también en invierno.",
+          "Mantener la sala abierta de noche también tiene un costo.",
+          "Para algunos, una biblioteca de noche es justo lo que faltaba.",
+          "Para otros, es mejor ampliar el horario de día.",
+          "¿Y a ti qué te parece: irías a leer de noche?"
+        ],
+        "simple": [
+          "La biblioteca va a abrir de noche todo el verano.",
+          "Abre de siete a once.",
+          "Muchos vecinos trabajan de día y no podían ir.",
+          "Habrá cuentos para chicos y un taller de escritura.",
+          "Entrar es gratis.",
+          "La sala tiene aire acondicionado.",
+          "En marzo van a ver si funcionó.",
+          "Si va bien, quizás siga en invierno.",
+          "A algunos les gusta la idea.",
+          "Otros prefieren que abra más horas de día.",
+          "Y tú, ¿irías a la biblioteca de noche?"
+        ],
+        "otra": [
+          "Hasta las once de la noche: así va a abrir la biblioteca municipal todo el verano.",
+          "Es la respuesta a una encuesta en la que muchos vecinos dijeron que de día no llegan.",
+          "Habrá préstamos sin turno, lectura para chicos y un taller de escritura, con entrada libre.",
+          "Y como la sala tiene aire acondicionado, también sirve para escapar del calor.",
+          "En marzo se evalúa y, si funciona, podría seguir en invierno.",
+          "Hay quienes dicen que es justo lo que una ciudad necesita.",
+          "Otros creen que el dinero rinde más en el horario de día.",
+          "¿Tú de qué lado estás: biblioteca de noche o de día?"
+        ]
+      }
+    },
+    "ejemplo-club": {
+      "dato": {
+        "oraciones": [
+          "El club del barrio inauguró su cancha techada después de tres años de rifas, peñas y trabajo voluntario.",
+          "Con la cancha nueva abre una escuela de básquet gratis para chicos y chicas de ocho a catorce años.",
+          "Las clases son los martes y viernes a la tarde.",
+          "Hay dos profesores y un grupo de padres que ayuda a organizar.",
+          "Las inscripciones se llenaron en dos días y ya hay lista de espera.",
+          "Por eso el club busca sumar un tercer día y más profesores.",
+          "El techo cubre la cancha de básquet, así que se puede jugar aunque llueva o haga mucho calor.",
+          "La cancha también se va a prestar a las escuelas de la zona para educación física.",
+          "Y los sábados habrá torneos abiertos para adultos.",
+          "Los vecinos que quieran colaborar pueden acercarse a la secretaría del club."
+        ],
+        "simple": [
+          "El club del barrio ya tiene cancha techada.",
+          "La pagaron con rifas, peñas y mucho trabajo de los vecinos.",
+          "Ahora abre una escuela de básquet gratis.",
+          "Es para chicos y chicas de ocho a catorce años.",
+          "Las clases son martes y viernes a la tarde.",
+          "Hay dos profesores.",
+          "Algunos padres ayudan a organizar.",
+          "Los lugares se llenaron en dos días.",
+          "Ya hay chicos esperando para entrar.",
+          "Por eso buscan otro día y más profesores.",
+          "Con el techo se puede jugar con lluvia o con calor.",
+          "Las escuelas de la zona también van a usar la cancha.",
+          "Los sábados habrá torneos para adultos.",
+          "Si quieres ayudar, ve a la secretaría del club."
+        ],
+        "otra": [
+          "Tres años de rifas y peñas dieron resultado: el club del barrio ya tiene su cancha techada.",
+          "Y con ella llega una escuela de básquet gratuita para chicos y chicas de ocho a catorce.",
+          "Funciona martes y viernes a la tarde, con dos profesores y padres que ayudan.",
+          "La demanda superó todo: los cupos se llenaron en dos días y hay lista de espera.",
+          "El club quiere sumar un tercer día y busca más profesores.",
+          "El tinglado permite usar la cancha aunque llueva o haga mucho calor.",
+          "Además, las escuelas de la zona la van a usar para educación física.",
+          "Y los sábados habrá torneos abiertos para adultos.",
+          "Quien quiera dar una mano puede acercarse a la secretaría."
+        ]
+      },
+      "te-cambia": {
+        "oraciones": [
+          "Si tienes hijos de entre ocho y catorce años, ahora pueden aprender básquet gratis en el club del barrio.",
+          "Las clases son los martes y viernes a la tarde, en la cancha techada nueva.",
+          "Ojo: los lugares se llenaron en dos días.",
+          "Si te interesa, anótate en la lista de espera: el club quiere sumar un tercer día.",
+          "Como la cancha tiene techo, las clases siguen aunque llueva o haga calor.",
+          "Y si eres adulto, los sábados hay torneos abiertos.",
+          "Si sabes de básquet o tienes tiempo, el club busca profesores y una mano con la organización.",
+          "Puedes acercarte a la secretaría.",
+          "La cancha también se va a prestar a las escuelas de la zona, así que puede que tus hijos la usen en educación física.",
+          "La consiguieron los propios vecinos, después de tres años de rifas, peñas y trabajo voluntario.",
+          "Si vives cerca, el club ahora tiene algo para toda la familia."
+        ],
+        "simple": [
+          "Si tienes hijos de ocho a catorce años, pueden aprender básquet gratis.",
+          "Es en el club del barrio.",
+          "Las clases son martes y viernes a la tarde.",
+          "La cancha tiene techo, así que no importa la lluvia.",
+          "Los lugares se llenaron rápido.",
+          "Puedes anotarte para esperar un lugar.",
+          "El club quiere abrir otro día.",
+          "Si eres grande, los sábados hay torneos.",
+          "Si sabes de básquet, el club busca profesores.",
+          "También puedes ayudar a organizar.",
+          "Pregunta en la secretaría del club.",
+          "Las escuelas de la zona también van a usar la cancha.",
+          "La hicieron los vecinos con rifas y peñas.",
+          "Ahora hay algo para toda la familia."
+        ],
+        "otra": [
+          "Una buena noticia si tienes chicos en casa: el club del barrio abrió una escuela de básquet gratuita.",
+          "Es para chicos y chicas de ocho a catorce años, los martes y viernes a la tarde.",
+          "Y se juega bajo techo, con lluvia o con calor.",
+          "Los cupos volaron en dos días, pero hay lista de espera y buscan sumar un tercer día.",
+          "A los grandes también les toca algo: los sábados hay torneos abiertos para adultos.",
+          "Y si te sobra tiempo o sabes de básquet, el club necesita profesores y padres que ayuden.",
+          "Se anotan en la secretaría.",
+          "La cancha también la van a usar las escuelas de la zona para educación física.",
+          "Todo esto salió del esfuerzo de los vecinos: tres años de rifas, peñas y trabajo voluntario.",
+          "Si vives en el barrio, ahora tienes un lugar más para encontrarte."
+        ]
+      },
+      "debate": {
+        "oraciones": [
+          "Después de tres años de rifas y peñas, el club del barrio estrenó su cancha techada.",
+          "Y abrió una escuela de básquet gratuita que se llenó en dos días.",
+          "Ya hay lista de espera y faltan profesores para sumar un tercer día.",
+          "El club pide ayuda a los vecinos para organizarse.",
+          "La cancha también se va a prestar a las escuelas de la zona.",
+          "Los fines de semana la cancha se llena de familias que vienen a mirar los partidos.",
+          "Todo eso lo lograron los vecinos, sin esperar a nadie.",
+          "Para algunos, es un ejemplo de lo que puede hacer un barrio unido.",
+          "Para otros, el deporte para chicos debería tener más apoyo y no depender de rifas.",
+          "¿Tú qué piensas: lo tiene que sostener el barrio o hace falta más ayuda?"
+        ],
+        "simple": [
+          "El club del barrio ya tiene cancha techada.",
+          "La pagaron los vecinos con rifas y peñas.",
+          "Ahora tiene una escuela de básquet gratis.",
+          "Los lugares se llenaron en dos días.",
+          "Faltan profesores para abrir otro día.",
+          "Las escuelas también van a usar la cancha.",
+          "Algunos dicen que es un gran ejemplo.",
+          "Otros dicen que el club necesita más ayuda.",
+          "Y tú, ¿crees que el barrio puede solo?"
+        ],
+        "otra": [
+          "Una cancha techada hecha con esfuerzo propio: el club del barrio la pagó con tres años de rifas y peñas.",
+          "Ahora tiene escuela de básquet gratuita, y los lugares se llenaron en dos días.",
+          "El club busca profesores y ayuda de los padres para sumar un tercer día.",
+          "La cancha también la van a usar las escuelas de la zona y los adultos en torneos.",
+          "Hay quienes lo ven como una prueba de que el barrio se las arregla solo.",
+          "Otros se preguntan por qué un club tiene que juntar dinero con rifas para algo así.",
+          "¿Qué piensas tú: es un orgullo o es una señal de que falta apoyo?"
+        ]
+      }
+    },
+    "ejemplo-choque": {
+      "dato": {
+        "oraciones": [
+          "Un choque entre dos camiones cortó la ruta provincial durante seis horas este sábado a la madrugada.",
+          "Los dos conductores fueron llevados al hospital y, según el último parte, están estables.",
+          "El choque fue en una curva cerca del acceso al pueblo.",
+          "Es un tramo sin banquina y con poca luz.",
+          "Uno de los camiones llevaba cereal y parte de la carga quedó sobre el asfalto.",
+          "Por eso la limpieza llevó más tiempo.",
+          "Mientras duró el corte, el tránsito se desvió por caminos rurales.",
+          "La ruta quedó habilitada cerca del mediodía.",
+          "Las autoridades piden circular con precaución, porque todavía hay restos de carga y personal trabajando en la zona.",
+          "Los vecinos dicen que es el tercer accidente grave en el año y vuelven a pedir luces y una banquina."
+        ],
+        "simple": [
+          "Dos camiones chocaron en la ruta provincial el sábado a la madrugada.",
+          "La ruta estuvo cortada seis horas.",
+          "Los dos conductores están en el hospital.",
+          "Están estables.",
+          "El choque fue en una curva oscura y sin banquina.",
+          "Parte de la carga, que era cereal, quedó en el asfalto.",
+          "Limpiar llevó tiempo.",
+          "Los autos pasaron por caminos de campo.",
+          "La ruta se abrió cerca del mediodía.",
+          "Todavía hay gente trabajando en el lugar.",
+          "Por eso piden manejar con cuidado.",
+          "Los vecinos dicen que es el tercer choque grave del año.",
+          "Piden luces y una banquina."
+        ],
+        "otra": [
+          "La ruta provincial estuvo cortada seis horas por un choque entre dos camiones, el sábado a la madrugada.",
+          "Los conductores están internados y estables, según el último parte.",
+          "Pasó en una curva cerca del acceso al pueblo, en un tramo oscuro y sin banquina.",
+          "Uno de los camiones llevaba cereal, y la carga que quedó sobre el asfalto demoró la limpieza.",
+          "El tránsito se desvió por caminos rurales hasta cerca del mediodía, cuando se habilitó la ruta.",
+          "Las autoridades piden circular con precaución: todavía quedan restos de la carga y hay personal trabajando.",
+          "Para los vecinos, es el tercer accidente grave del año en ese lugar, y reclaman luces y una banquina."
+        ]
+      },
+      "te-cambia": {
+        "oraciones": [
+          "Si viajas por la ruta provincial, maneja con precaución cerca del acceso al pueblo.",
+          "Ahí chocaron dos camiones el sábado a la madrugada y todavía hay restos de carga y personal trabajando.",
+          "La ruta ya está habilitada desde el mediodía.",
+          "Los dos conductores están en el hospital y, según el último parte, estables.",
+          "Es una curva sin banquina y con poca luz, así que conviene bajar la velocidad.",
+          "Si vuelve a haber un corte, el desvío es por caminos rurales.",
+          "Ese tramo preocupa a los vecinos: dicen que es el tercer accidente grave en el año.",
+          "Por eso piden luces y una banquina.",
+          "Si vives en la zona o pasas seguido por ahí, ese reclamo también te toca.",
+          "Mientras tanto, lo más importante es circular despacio y atento a las indicaciones del personal."
+        ],
+        "simple": [
+          "Si vas por la ruta provincial, maneja con cuidado cerca del pueblo.",
+          "Hubo un choque entre dos camiones.",
+          "Todavía hay gente trabajando ahí.",
+          "La ruta ya está abierta.",
+          "Los conductores están estables.",
+          "La curva no tiene banquina y tiene poca luz.",
+          "Ve más despacio en esa parte.",
+          "Si la cortan de nuevo, puedes pasar por caminos de campo.",
+          "Los vecinos dicen que es el tercer choque grave del año.",
+          "Piden luces y una banquina.",
+          "Si pasas seguido por ahí, esto te importa.",
+          "Hazle caso al personal de la ruta."
+        ],
+        "otra": [
+          "Atención si pasas por la ruta provincial: en la curva del acceso al pueblo todavía hay personal trabajando.",
+          "El sábado a la madrugada chocaron dos camiones y la ruta estuvo cortada seis horas.",
+          "Ya está habilitada, pero quedan restos de la carga.",
+          "Los dos conductores siguen en el hospital y están estables.",
+          "El tramo no tiene banquina y casi no tiene luz: de noche, baja la velocidad.",
+          "Si hay otro corte, el desvío es por caminos rurales.",
+          "Los vecinos cuentan que es el tercer accidente grave del año y piden luces y una banquina.",
+          "Si es tu camino de todos los días, ese pedido también es tuyo.",
+          "Por ahora, lo mejor es pasar despacio y seguir las indicaciones del personal."
+        ]
+      },
+      "debate": {
+        "oraciones": [
+          "Un choque entre dos camiones cortó la ruta provincial seis horas, cerca del acceso al pueblo.",
+          "Los dos conductores están internados y estables.",
+          "La ruta se habilitó cerca del mediodía.",
+          "Fue en una curva sin banquina y con poca luz.",
+          "Uno de los camiones llevaba cereal y la carga demoró la limpieza.",
+          "El tránsito se desvió por caminos rurales durante toda la mañana.",
+          "Hubo demoras largas para quienes iban a trabajar.",
+          "Los vecinos dicen que es el tercer accidente grave del año en ese tramo.",
+          "Piden luces y una banquina, y no es la primera vez que lo reclaman.",
+          "Las obras cuestan y llevan tiempo, pero los accidentes se repiten.",
+          "¿Qué tendría que llegar primero a ese tramo: las luces, la banquina o más controles?"
+        ],
+        "simple": [
+          "Dos camiones chocaron en la ruta provincial.",
+          "Los conductores están estables.",
+          "La curva no tiene luz ni banquina.",
+          "Los vecinos dicen que es el tercer choque grave del año.",
+          "Piden luces y una banquina.",
+          "Arreglar la ruta cuesta dinero y tiempo.",
+          "Pero los choques siguen.",
+          "Y tú, ¿qué arreglarías primero en esa curva?"
+        ],
+        "otra": [
+          "Tres accidentes graves en un año en el mismo tramo: así lo cuentan los vecinos de la ruta provincial.",
+          "El último fue este sábado, entre dos camiones, y los conductores están estables.",
+          "La curva está cerca del acceso al pueblo, no tiene banquina y tiene poca luz.",
+          "El corte duró seis horas y el tránsito se desvió por caminos rurales.",
+          "Los vecinos piden luces y una banquina.",
+          "Para algunos, lo urgente son más controles de velocidad.",
+          "Para otros, sin obras en la ruta nada va a cambiar.",
+          "¿Tú qué harías primero: controlar la velocidad o arreglar el tramo?"
+        ]
+      }
+    }
+  }
+}

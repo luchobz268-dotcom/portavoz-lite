@@ -1,0 +1,23 @@
+# Lo que es de cada persona y una actualización nunca pisa
+.env
+.env.*
+*.env
+/trabajos/
+estudio/datos/trabajos-de-ejemplo/
+estudio/datos/fondos-de-ejemplo/
+estudio/datos/arranque.json
+estudio/datos/uso/
+estudio/datos/mis-reglas.md
+estudio/capturas/
+motor/cache/
+
+# Las piezas que la instalación de Mac deja adentro de la carpeta (Node, Python, FFmpeg)
+/.herramientas/
+
+# Lo que se rearma solo
+node_modules/
+.next/
+.next-nuevo/
+.next-anterior/
+__pycache__/
+*.pyc
